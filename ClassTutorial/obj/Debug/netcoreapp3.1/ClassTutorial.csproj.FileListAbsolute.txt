@@ -1,0 +1,13 @@
+C:\repos\ClassTutorial\ClassTutorial\bin\Debug\netcoreapp3.1\ClassTutorial.exe
+C:\repos\ClassTutorial\ClassTutorial\bin\Debug\netcoreapp3.1\ClassTutorial.deps.json
+C:\repos\ClassTutorial\ClassTutorial\bin\Debug\netcoreapp3.1\ClassTutorial.runtimeconfig.json
+C:\repos\ClassTutorial\ClassTutorial\bin\Debug\netcoreapp3.1\ClassTutorial.runtimeconfig.dev.json
+C:\repos\ClassTutorial\ClassTutorial\bin\Debug\netcoreapp3.1\ClassTutorial.dll
+C:\repos\ClassTutorial\ClassTutorial\bin\Debug\netcoreapp3.1\ClassTutorial.pdb
+C:\repos\ClassTutorial\ClassTutorial\obj\Debug\netcoreapp3.1\ClassTutorial.csprojAssemblyReference.cache
+C:\repos\ClassTutorial\ClassTutorial\obj\Debug\netcoreapp3.1\ClassTutorial.AssemblyInfoInputs.cache
+C:\repos\ClassTutorial\ClassTutorial\obj\Debug\netcoreapp3.1\ClassTutorial.AssemblyInfo.cs
+C:\repos\ClassTutorial\ClassTutorial\obj\Debug\netcoreapp3.1\ClassTutorial.csproj.CoreCompileInputs.cache
+C:\repos\ClassTutorial\ClassTutorial\obj\Debug\netcoreapp3.1\ClassTutorial.dll
+C:\repos\ClassTutorial\ClassTutorial\obj\Debug\netcoreapp3.1\ClassTutorial.pdb
+C:\repos\ClassTutorial\ClassTutorial\obj\Debug\netcoreapp3.1\ClassTutorial.genruntimeconfig.cache
