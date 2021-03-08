@@ -22,6 +22,8 @@ namespace ClassTutorial {
                 Description = "English", minSat = 501
             };
 
+            var desc = English.Description;
+
             Math.print();
             English.print();
 
@@ -34,6 +36,8 @@ namespace ClassTutorial {
             dustin.HasGraduated();
             dustin.NewGPA(2.9m);
 
+    
+
 
             dustin.print();
 
@@ -41,8 +45,8 @@ namespace ClassTutorial {
             Console.WriteLine($"ucName is {ucName}");
             // ask becca for help in this
 
-            var jonathan = new Student {
-                Name = "Jonathan",
+            var jonathan = new Student() {
+                //Name = "Jonathan",
                 Address = "4900 Parkway Dr.",
                 GPA = 4.0m,
                 Major = "Above Water Basket Weaving"

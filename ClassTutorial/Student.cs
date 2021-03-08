@@ -10,7 +10,7 @@ namespace ClassTutorial {
        public string Major;
        public bool Graduated = false;
 
-         // default constructor
+        // default constructor
         public Student() {
             Console.WriteLine("Called default consturctor");
         }
